@@ -1,2 +1,1 @@
-# vagrant
-# scala
+# vagrant-scala
