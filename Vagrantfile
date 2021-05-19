@@ -19,6 +19,6 @@ Vagrant.configure("2") do |config|
   
   # provision
   config.vm.provision "shell", inline: <<-SHELL
-    bash /vagrant_provision/vagrant_provision.sh
+    bash /vagrant/home/vagrant_provision/vagrant_provision.sh
   SHELL
 end
