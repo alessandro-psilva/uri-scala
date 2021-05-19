@@ -1,1 +1,2 @@
-# uri-scala
+# vagrant
+# scala
